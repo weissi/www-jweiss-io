@@ -1,0 +1,3 @@
+# robots.txt for http://www.tux4u.de
+User-agent: *
+Disallow: /logs

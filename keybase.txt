@@ -1,0 +1,58 @@
+==================================================================
+https://keybase.io/jw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://johannesweiss.eu
+  * I am jw (https://keybase.io/jw) on keybase.
+  * I have a public key with fingerprint 925E BDA8 D5F9 B6B6 11CD  E61A CD4F 0E6B B144 B067
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "925ebda8d5f9b6b611cde61acd4f0e6bb144b067",
+            "host": "keybase.io",
+            "key_id": "CD4F0E6BB144B067",
+            "uid": "ca74e7bfd0378d9f3cb31c18bb7b3400",
+            "username": "jw"
+        },
+        "service": {
+            "hostname": "johannesweiss.eu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397202872,
+    "expire_in": 157680000,
+    "prev": "6356828e4fc0638644f6022480cc82f46b8cfd72b8953cddb16243ed1b2a26f6",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owE1kb9uFDEQxpeDIBEEIYg+kikoOEW212d7t7yECwV/Ch7gtGOP70xgd9ndu0t0
+ioRSUVAgIerkBZCgInT0KB0SBXR0NLwCdiBurJn5fd/MaN5cu5j01k8fX9/9uP1h
+cuHrlz+QPNk5OlkSqOw+yZdkF88+58sJNnXjy47kJOMDBFtoO3AZSJCMGYuSFcYK
+R1ECMCGASkX6ZFq1URFsoGhx01chF4KxtyG7tS1G9J4cDgM//MfPzgqmUAIVOEtT
+pW3mUgMpM0wDKEgFpRFssSmL5xjopwty0CchnnuDcdrY9LxWTYuyxHaBvm03cRaU
+dVN1lameheq06+o8irv9OtILhPF/nzH40oatg2COTeurkuQskKbz0ZilmeKUa8X7
+BPdq3+DYR2KgpKbhxTY4D5YyHUjNNQpnqEy1FMJJyrnQ1BjNnZCgjbOKg84GqbEW
+mOQiRcuAF1w6SeJmL8qK5CqMWUyCZesnZdHNGiQHr0aXkvVecnmlF8+WrF65cX7M
+T01yNPxh7iwPt26+X7v74PV3olZert1Pjt8++rZ6uvHz3e2d0fHvk8Nbn68+/PUX
+=XWzQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jw
+
+==================================================================

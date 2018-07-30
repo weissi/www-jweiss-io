@@ -1,0 +1,58 @@
+==================================================================
+https://keybase.io/jw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tux4u.de
+  * I am jw (https://keybase.io/jw) on keybase.
+  * I have a public key with fingerprint 925E BDA8 D5F9 B6B6 11CD  E61A CD4F 0E6B B144 B067
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "925ebda8d5f9b6b611cde61acd4f0e6bb144b067",
+            "host": "keybase.io",
+            "key_id": "cd4f0e6bb144b067",
+            "uid": "ca74e7bfd0378d9f3cb31c18bb7b3400",
+            "username": "jw"
+        },
+        "service": {
+            "hostname": "tux4u.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397068813,
+    "expire_in": 157680000,
+    "prev": "eea94478fb64182f1cf6ae9673fd1c68dcd2758d9d3b56ff142a3074f92e0851",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+owFtUT1rFUEUXZ8+IQFDIrammMJqCTM7szOzW6TyBQQhiD/gMR93Xsbo7ro77yUh
+BFIGEoKF1sFOO1Pb2Iut/oU0NnZi44zGzmmGe+45597DfXXnZjZa+7K9snv58MPs
+xudPVzp7Onl99xDp1h6g+hDtwp/P+WYGfdf7JqAaVUUJ2ippS1dprjkhxgInyljm
+MHCtCWMac4FytNMOSRFttBpgw7cRi8XU24j+hz//21CCgdDOYiqkrRw1mhJDpNZC
+U4ZxIg7QN+oFRPazPXSUo1gvvIG0bRp63QvzfTbfsBAVXd+G1rTPI7oTQlcnUTjo
+EmsP9PRaP9W+sTFtFCygH3zboJpEpgk+GRJaCcylJDRHsN/5HqY+MUrBJY4vjYFF
+tARQFWNCOs0ZkYUjxnEFFRfUWWK4tMYWoozhLNUld46wQlEsmKsKwLIkKCV62bSo
+ZnFNNYuWg581Ksx7QEfLJ1u3srVRdns8SvfKlpdW/10x/55dTM42712tPjptvr4/
+Zz/GH8PPd2+ziy4/O94eTx7fP37ya30le/DtUr35DQ==
+=X4O/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jw
+
+==================================================================
